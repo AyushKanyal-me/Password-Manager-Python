@@ -20,8 +20,8 @@ pip install pyperclip
 ## Setup
 - **Clone the Repository:**
   ```sh
-  git clone https://github.com/AyushKanyal-me/Password-Manager.git
-  cd password-manager
+  git clone https://github.com/AyushKanyal-me/Password-Manager-Python.git
+  cd Password-Manager-Python
   ```
 
 - **Add the Logo File:**
